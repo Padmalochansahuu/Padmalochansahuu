@@ -1,6 +1,6 @@
 
 
-👋 Hello, I'm Padmalochan Sahu
+👋 Hello, I'm Padmalochan
 
 🎓 I'm a passionate student pursuing Btech(computer science and information technology) with a keen interest in mobile app development for Android and iOS platforms. 
 
