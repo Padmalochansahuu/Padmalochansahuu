@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Padmalochansahuu/Padmalochansahuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hello, I'm Padmalochan Sahu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a passionate student pursuing Btech(computer science and information technology) with a keen interest in mobile app development for Android and iOS platforms. 
+
+💻 As an experienced Android and iOS developer/engineer, I love building elegant and user-friendly applications that make a positive impact on people's lives. I enjoy working with the latest technologies and frameworks to create innovative solutions.
+
+📱 My skills include:
+
+- Android development:Kotlin, Android SDK, Android Studio, vscode 
+- Cross-platform development: Flutter ,Android Studio , xcode , vscode 
+- Backend: Firebase , javascript , nodejs, JSON ,SQL (PostgreSQL) 
+- UI/UX design principles and best practices
+- Version control systems: Git, GitHub
+
+🌟 Throughout my academic journey, I have collaborated on various projects, both as an individual and as part of a team. These experiences have sharpened my problem-solving skills and taught me the importance of effective communication and teamwork.
+
+🚀 Currently, I am seeking opportunities to apply my skills and expand my knowledge in the field of mobile app development. 
+
+📫 Feel free to reach out to me via email at (devloperpadma@gmail.com) . I'm always excited to connect with fellow developers, collaborate on interesting projects, and share knowledge.
+
+🌈 Let's build amazing mobile experiences together and shape the future of technology!
