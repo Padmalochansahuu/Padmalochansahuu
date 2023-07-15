@@ -10,7 +10,7 @@
 
 - Android development:Kotlin, Android SDK, Android Studio, vscode 
 - Cross-platform development: Flutter ,Android Studio , xcode , vscode 
-- Backend: Firebase , javascript , nodejs, JSON ,SQL (PostgreSQL) 
+- Backend: Firebase , javascript , nodejs, JSON 
 - UI/UX design principles and best practices
 - Version control systems: Git, GitHub
 
