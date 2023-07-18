@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Padmalochan
 
-🎓 I'm a passionate student pursuing Btech(computer science and information technology) with a keen interest in mobile app development for Android and iOS platforms. 
+🎓 I'm a passionate student pursuing Btech(computer science and information technology) with a keen interest in mobile app development for Cross-plartform(Android and iOS platforms , web etc..).
 
 💻 As an experienced Android and iOS developer/engineer, I love building elegant and user-friendly applications that make a positive impact on people's lives. I enjoy working with the latest technologies and frameworks to create innovative solutions.
 
