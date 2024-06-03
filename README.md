@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Padmalochan<br><br>🎓 
+👋 Hello, I'm Padmalochan<br><br>
 
 I am a fresh Data Analyst eager to transform complex datasets into actionable insights. With a solid foundation in statistics, I am skilled in data collection, cleaning, and analysis using SQL, Python, and Excel. I am also proficient in creating compelling visualizations with Power BI and Tableau, which help in making data-driven decisions and strategic planning.
 
