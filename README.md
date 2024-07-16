@@ -5,7 +5,7 @@ I am a fresh Data Analyst eager to transform complex datasets into actionable in
 As a collaborative team player with excellent communication skills and a keen eye for detail, I am passionate about leveraging data to achieve organizational goals. On this GitHub, you'll find projects and exercises that showcase my growing expertise and enthusiasm for tackling data challenges.
 
 ### Skills
-- **Data Analysis:** SQL, Python (pandas, matplotlib, seaborn, numpy, Scipy), Advancecd Excel
+- **Data Analysis:** SQL, Azure, Python (pandas, matplotlib, seaborn, numpy, Scipy), Advancecd Excel
 - **Statistical Analysis**
 - **Data Visualization:** Power BI, Tableau
 - **Data Cleaning and Preparation**
