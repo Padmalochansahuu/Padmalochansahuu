@@ -1,4 +1,4 @@
-<!-- 🚀 High-End Animated GitHub Profile Design -->
+<!-- 🌟 Animated & High-End GitHub Profile Design -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
@@ -6,16 +6,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Flutter+Developer;Advanced+Animations+%7C+UI%2FUX;Firebase+Integration+%7C+Real-Time+DB;Data+Analytics+%7C+Python%2C+Tableau%2C+Power+BI;Creative+Design+with+Canva" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Flutter+Developer;Advanced+Animations+%7C+UI%2FUX;Firebase+Integration+%7C+Real-Time+DB;Data+Analytics+%7C+Python%2C+Tableau%2C+Power+BI" />
 </p>
 
 ---
 
 ## 🚀 **About Me**  
-🎨 **Flutter Frontend Developer** – Specialized in building **highly interactive, smooth UI/UX with animations**.  
-☁️ **Firebase Integration** – Expertise in **real-time databases, authentication, cloud storage, push notifications**.  
-📊 **Data Analytics Enthusiast** – Skilled in **Python, Power BI, and Tableau for data-driven insights**.  
-🖌️ **Creative Designer** – Uses **Canva** for **modern UI/UX design, branding, and engaging visuals**.  
+🎨 **Flutter Frontend Developer** specializing in **smooth UI/UX, animations, and cross-platform applications**.  
+☁️ **Firebase expert**, handling **real-time databases, authentication, cloud storage, and push notifications**.  
+📊 **Data Analytics enthusiast**, leveraging **Python, Power BI, and Tableau** to generate insights.  
+💡 Passionate about **building interactive, scalable, and efficient mobile applications**.  
 
 ---
 
@@ -34,11 +34,6 @@
 ### **📊 Data Analytics & Visualization**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pandas,tableau,powerbi" />
-</p>
-
-### **🎨 UI/UX & Creative Design**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=canva,figma" />
 </p>
 
 ---
