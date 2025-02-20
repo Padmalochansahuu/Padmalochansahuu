@@ -50,22 +50,6 @@ I am always **exploring cutting-edge technologies**, enhancing app performance, 
   <img src="https://img.shields.io/badge/Flutter%20Hero-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### **📊 Data Analysis & Visualization**
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
-
----
-
-## 🚀 **What I Do**
-- 🔹 **Full-Stack Mobile App Development** – Scalable and performance-optimized applications  
-- 🔹 **Advanced Firebase Integration** – Authentication, Firestore, Cloud Functions, and Storage  
-- 🔹 **State Management Solutions** – GetX, Provider, Bloc for seamless app performance  
-- 🔹 **REST API & GraphQL Development** – Secure and efficient backend integrations  
-- 🔹 **Beautiful UI/UX & Animations** – Lottie, Hero Animations, Custom UI Components  
-- 🔹 **Data Analysis & Business Intelligence** – SQL, Power BI, and Tableau  
-
 ---
 
 ## 📫 **Let's Connect!**
@@ -73,21 +57,6 @@ I am always **exploring cutting-edge technologies**, enhancing app performance, 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahupadmalochan209@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)  
-
----
-
-## 📊 **GitHub Stats & Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
