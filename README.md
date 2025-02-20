@@ -1,18 +1,19 @@
-# 💫 About Me:
-👋 Hello, I'm Padmalochan<br><br>
-I am a  Data Analyst eager to transform complex datasets into actionable insights. With a solid foundation in statistics, I am skilled in data collection, cleaning, and analysis using SQL, Python (including libraries such as pandas, matplotlib, seaborn, and numpy), and Excel. I am also proficient in creating compelling visualizations with Power BI and Tableau, which help in making data-driven decisions and strategic planning.
+# 💫 About Me  
+👋 Hello, I'm **Padmalochan**  
 
-As a collaborative team player with excellent communication skills and a keen eye for detail, I am passionate about leveraging data to achieve organizational goals. On this GitHub, you'll find projects and exercises that showcase my growing expertise and enthusiasm for tackling data challenges.
+I am a **Flutter Developer** with **1+ years of experience**, specializing in building fully responsive and dynamic applications for **Android and iOS**. I have expertise in both **frontend and backend development**, integrating **Firebase** for real-time databases, authentication, cloud functions, and more. My focus is on delivering **high-performance, scalable, and user-friendly mobile applications**.  
 
-### Skills
-- **Data Analysis:** SQL, Azure, Python (pandas, matplotlib, seaborn, numpy, Scipy), Advancecd Excel
-- **Statistical Analysis**
-- **Data Visualization:** Power BI, Tableau
-- **Data Cleaning and Preparation**
-- **Collaboration and Communication**
+Beyond app development, I also have experience in **data analysis**, working with **SQL, Python (pandas, matplotlib, seaborn, numpy), Power BI, Tableau, and Advanced Excel** to transform complex datasets into actionable insights.  
 
-Feel free to explore my repositories and connect with me for any collaborative opportunities!
+## 🚀 Tech Stack & Skills  
+- **Flutter & Dart** – Frontend & Backend (Firebase)  
+- **State Management** – Provider, Riverpod, Bloc  
+- **Backend** – Firebase Firestore, Firebase Authentication, Cloud Functions  
+- **API Integration & Database Management**  
+- **UI/UX Development** – Creating visually appealing and intuitive app interfaces  
+- **Data Analysis (Secondary Skill)** – SQL, Python, Power BI, Tableau  
 
-<br><br>📫 Feel free to reach out to me via email at (sahupadmalochan209@gmail.com) or on social media. I'm always excited to connect with fellow developers, collaborate on interesting projects, and share knowledge.
+I am passionate about learning new technologies, collaborating on innovative projects, and building impactful mobile solutions.  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 **Get in Touch:**  
+Feel free to reach out via **[Email](mailto:sahupadmalochan209@gmail.com)** or connect with me on **social media**!  
