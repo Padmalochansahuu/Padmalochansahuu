@@ -4,38 +4,53 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Frontend+Developer;Expert+UI/UX+%26+Animations;Firebase+%7C+API+Integration;Data+Analytics+%7C+Python+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Frontend+Developer;Expert+UI/UX+%26+Animations;Firebase+%7C+API+Integration;Freelance+Developer+%7C+Remote+Projects" />
 </p>
 
 ---
 
-## 🎯 **Who Am I?**  
-🚀 I am a **Flutter Developer with 2.5+ years of experience** building **cross-platform mobile applications**.  
+## 🎯 **About Me**  
+👨‍💻 I’m a **Flutter Developer with 2.5+ years of experience** in building **cross-platform mobile apps** that are **scalable, high-performance, and user-friendly**.  
 
-💼 Currently, I work **full-time as a Flutter Developer**, creating **scalable, high-performance, and user-friendly apps**. Alongside my full-time role, I also take on **selective freelance projects**, which allows me to explore diverse industries and deliver **tailored mobile solutions** to clients.  
+⚡ Beyond my full-time work, I am **actively available for freelance, remote, part-time, full-time, and contractual projects**.  
 
-🔥 My expertise lies in **Flutter, Dart, Firebase, REST APIs, and third-party integrations**, with a strong focus on **clean, maintainable code, performance optimization, and delivering real user value**.  
-
-🤝 I thrive in both **collaborative team environments** and **independent roles**, bringing **problem-solving skills, adaptability, and a strong commitment to on-time delivery**.  
-
-📊 Besides app development, I also explore **Data Analytics & Business Intelligence**, applying tools like **Python, Power BI, and Tableau** for insights and visualization.  
-
-🎓 **Education**:  
-- **B.Tech (IT)**  
-- **MBA (Business Analytics)**  
+📌 My primary expertise is in **Flutter (Dart, Firebase, REST APIs, Third-Party Integrations, Animations, UI/UX)**.  
+I focus on **clean code, app performance, and delivering products that provide real value**.  
 
 ---
 
-## 🛠 **Tech Stack & Expertise**  
+## 💼 **Freelance & Remote Availability**  
+✅ **Open to Work** – I take on projects in different engagement models:  
+- 🌍 **Remote Work** (Worldwide)  
+- 🕒 **Part-Time / Full-Time Roles**  
+- 📑 **Contractual Assignments**  
+- 💡 **Freelance Projects** (short-term & long-term collaborations)  
 
-### **📱 Flutter Frontend Development**
+---
+
+## 📱 **Flutter Project Categories I Work On**  
+🚀 I specialize in end-to-end **Flutter development** across multiple domains:  
+
+- 📦 **E-commerce & Online Stores** (cart, payments, product catalogs, orders)  
+- 🏥 **Healthcare & Fitness Apps** (appointments, tracking, dashboards)  
+- 🎓 **Education & E-Learning** (courses, tests, live classes)  
+- 🏦 **Finance & Business Apps** (transactions, reports, analytics)  
+- 🚚 **Delivery & Logistics** (maps, tracking, notifications)  
+- 🎨 **Custom UI/UX Focused Apps** (animations, dashboards, designs)  
+- 🔗 **API & Firebase Integrated Apps** (auth, cloud storage, push notifications)  
+
+---
+
+## 🛠 **Tech Stack**  
+
+### **Flutter Frontend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Animations%20%26%20UI-5F5D9C?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### **☁️ Firebase Integration**
+### **Firebase Integration**
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Authentication-FF6C37?style=for-the-badge&logo=firebase&logoColor=white" />
@@ -43,29 +58,15 @@
   <img src="https://img.shields.io/badge/Push%20Notifications-0077B5?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### **🎨 UI/UX & Motion Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lottie%20Animations-0A0A0A?style=for-the-badge&logo=lottie&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hero%20Animations-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### **📊 Data Analytics & Visualization**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
 ---
 
-## 📬 **Let's Connect!**  
-💡 Have an interesting project? Let's collaborate!  
+## 📬 **Let’s Work Together!**  
+💡 Looking for a reliable Flutter developer to build your app?  
+I’m available for **freelance, remote, part-time, full-time, and contractual work**.  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahupadmalochan209@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmalochansahu/)  
 
 ---
 
-🚀 **"Transforming ideas into interactive, scalable, and high-performance mobile experiences!"**
+🚀 **"Your ideas, my Flutter expertise — together we build apps that stand out!"**
