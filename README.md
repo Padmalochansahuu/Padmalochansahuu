@@ -4,19 +4,25 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Flutter+Developer;Expert+UI/UX+%26+Animations;Firebase+%7C+API+Integration;Data+Analytics+%7C+Python+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Frontend+Developer;Expert+UI/UX+%26+Animations;Firebase+%7C+API+Integration;Data+Analytics+%7C+Python+%7C+Power+BI" />
 </p>
 
 ---
 
 ## 🎯 **Who Am I?**  
-🚀 Passionate **Flutter Frontend Developer**, crafting **stunning and high-performance mobile apps** with a deep focus on **smooth UI/UX, animations, and responsiveness**.  
+🚀 I am a **Flutter Developer with 2.5+ years of experience** building **cross-platform mobile applications**.  
 
-🔥 Skilled in **Firebase integration**, handling real-time databases, authentication, cloud storage, and push notifications seamlessly.  
+💼 Currently, I work **full-time as a Flutter Developer**, creating **scalable, high-performance, and user-friendly apps**. Alongside my full-time role, I also take on **selective freelance projects**, which allows me to explore diverse industries and deliver **tailored mobile solutions** to clients.  
 
-📊 Additionally, I explore **Data Analytics**, leveraging **Python (Pandas, NumPy, Seaborn, Matplotlib)**, **Power BI**, and **Tableau** to extract insights from data.  
+🔥 My expertise lies in **Flutter, Dart, Firebase, REST APIs, and third-party integrations**, with a strong focus on **clean, maintainable code, performance optimization, and delivering real user value**.  
 
-I believe in **clean code**, **scalability**, and **delivering exceptional user experiences** through modern Flutter development.  
+🤝 I thrive in both **collaborative team environments** and **independent roles**, bringing **problem-solving skills, adaptability, and a strong commitment to on-time delivery**.  
+
+📊 Besides app development, I also explore **Data Analytics & Business Intelligence**, applying tools like **Python, Power BI, and Tableau** for insights and visualization.  
+
+🎓 **Education**:  
+- **B.Tech (IT)**  
+- **MBA (Business Analytics)**  
 
 ---
 
@@ -62,4 +68,4 @@ I believe in **clean code**, **scalability**, and **delivering exceptional user 
 
 ---
 
-🚀 **"Transforming ideas into interactive & high-performance mobile experiences!"**  
+🚀 **"Transforming ideas into interactive, scalable, and high-performance mobile experiences!"**
