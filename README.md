@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 **About Me**  
-👨‍💻 I’m a **Flutter Developer with 2.5+ years of experience** in building **cross-platform mobile apps** that are **scalable, high-performance, and user-friendly**.  
+👨‍💻 I’m a **Flutter Developer with 3+ years of experience** in building **cross-platform mobile apps** that are **scalable, high-performance, and user-friendly**.  
 
 ⚡ Beyond my full-time work, I am **actively available for freelance, remote, part-time, full-time, and contractual projects**.  
 
