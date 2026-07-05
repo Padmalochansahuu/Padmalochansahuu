@@ -148,85 +148,6 @@ I have collaborated with clients and distributed teams across **India, the US, J
 
 ---
 
-## Product Domains
-
-<table>
-  <tr>
-    <td align="center" width="25%">Food Delivery</td>
-    <td align="center" width="25%">Education</td>
-    <td align="center" width="25%">Healthcare</td>
-    <td align="center" width="25%">E-Commerce</td>
-  </tr>
-  <tr>
-    <td align="center">Logistics</td>
-    <td align="center">Service Platforms</td>
-    <td align="center">Admin Dashboards</td>
-    <td align="center">AI Applications</td>
-  </tr>
-  <tr>
-    <td align="center">Payment Apps</td>
-    <td align="center">Media Streaming</td>
-    <td align="center">QR Systems</td>
-    <td align="center">Business Tools</td>
-  </tr>
-</table>
-
----
-
-## Selected Production Work
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Category</th>
-    <th>Tech</th>
-    <th>Highlights</th>
-  </tr>
-  <tr>
-    <td><b>Frosty Foods</b></td>
-    <td>Food Delivery</td>
-    <td>Flutter, Firebase, Maps, Razorpay</td>
-    <td>Customer app, delivery app, live tracking, payments, order workflows</td>
-  </tr>
-  <tr>
-    <td><b>Aanandam</b></td>
-    <td>Devotional Media</td>
-    <td>Flutter, Firebase, Push Notifications</td>
-    <td>Android/iOS apps, audio streaming, notifications, media workflows</td>
-  </tr>
-  <tr>
-    <td><b>EduSkills Platform</b></td>
-    <td>E-Learning</td>
-    <td>Flutter, Python, Firebase, AI</td>
-    <td>Learning app, AI chatbot, authentication, student workflows</td>
-  </tr>
-  <tr>
-    <td><b>CIFLUX Electronic</b></td>
-    <td>Business Website</td>
-    <td>ReactJS</td>
-    <td>Responsive UI, SEO-friendly structure, reusable components</td>
-  </tr>
-  <tr>
-    <td><b>Vivida Platform</b></td>
-    <td>Web Platform</td>
-    <td>ReactJS</td>
-    <td>Responsive interface, reusable UI, multi-device optimization</td>
-  </tr>
-  <tr>
-    <td><b>Aethelgard Healthcare</b></td>
-    <td>Healthcare Web</td>
-    <td>Flutter Web</td>
-    <td>Healthcare workflows, responsive UI, cloud-connected architecture</td>
-  </tr>
-  <tr>
-    <td><b>Quick QR</b></td>
-    <td>Utility App</td>
-    <td>Flutter, Local Storage</td>
-    <td>QR generation, QR scanning, offline storage, lightweight performance</td>
-  </tr>
-</table>
-
----
 
 ## Professional Highlights
 
@@ -245,28 +166,7 @@ I have collaborated with clients and distributed teams across **India, the US, J
 
 ---
 
-## Certifications & Achievements
 
-<table>
-  <tr>
-    <td><b>Cisco Flutter Certification</b></td>
-    <td>Certificate of Excellence in Flutter Development</td>
-  </tr>
-  <tr>
-    <td><b>HackerRank Software Engineer</b></td>
-    <td>Problem Solving, SQL, REST API fundamentals, software engineering concepts</td>
-  </tr>
-  <tr>
-    <td><b>HackerRank Java</b></td>
-    <td>Java programming, OOP, and data structure fundamentals</td>
-  </tr>
-  <tr>
-    <td><b>SQL for Data Analytics</b></td>
-    <td>Advanced SQL, reporting systems, and analytics training</td>
-  </tr>
-</table>
-
----
 
 ## Work Style
 
